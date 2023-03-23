@@ -1,40 +1,56 @@
-<style>
-  /* Style for form container */
+/* Set default font and margin/padding */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style the form container */
   .form-container {
     max-width: 500px;
     margin: 0 auto;
     padding: 20px;
     border: 1px solid #ccc;
     border-radius: 5px;
-    background-color: #f9f9f9;
   }
-
-  /* Style for form input fields */
-  .form-input {
+  
+  /* Style the form fields */
+  .form-field {
+    margin-bottom: 10px;
+  }
+  
+  .form-field label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .form-field input[type="text"],
+  .form-field input[type="email"],
+  .form-field textarea {
     display: block;
     width: 100%;
     padding: 10px;
-    margin-bottom: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
+    box-sizing: border-box;
     font-size: 16px;
-    color: #333;
   }
-
-  /* Style for form input fields with focus */
-  .form-input:focus {
-    outline: none;
-    border-color: #2ecc71;
-  }
-
-  /* Style for submit button */
-  .form-submit {
+  
+  /* Style the submit button */
+  .submit-button {
     display: block;
-    width: 100%;
-    padding: 10px;
+    margin: 20px 0 0 auto;
+    padding: 10px 20px;
     border: none;
     border-radius: 5px;
-    background-color: #2ecc71;
+    background-color: #4CAF50;
     color: #fff;
-    font-size: 16
+    font-size: 16px;
+    cursor: pointer;
   }
+  
+  .submit-button:hover {
+    background-color: #3e8e41;
+  }
+  
