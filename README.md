@@ -19,3 +19,17 @@ To use the contact form on your website, follow these steps:
 * Update the email address in the $to variable to your own email address.
 * Save the file and upload it to your website's directory.
 * You're all set! Visitors to your website can now use the contact form to send you messages.
+
+## Usage
+
+To use the contact form, simply navigate to the contact page on your website and fill out the form with your name, email address, and message. Then, complete the captcha and click the "Send" button. You will receive an email notification with the message details.
+
+## Customization
+
+You can customize the contact form to suit your needs by modifying the HTML, CSS, and PHP files. For example, you can change the styling of the form, add or remove fields, or modify the email notification message.
+
+## Contributing
+
+If you find any bugs or issues with the contact form, please open an issue on the GitHub repository. Pull requests are also welcome for any improvements or additional features you would like to add.
+
+
