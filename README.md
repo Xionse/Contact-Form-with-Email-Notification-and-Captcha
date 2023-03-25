@@ -7,3 +7,7 @@ This is a simple contact form with email notification and captcha functionality,
 2. Captcha to prevent spam messages from bots and automated systems
 3. Email notification when a visitor sends a message
 4. Responsive design that works on all devices
+
+# Installation
+
+To use the contact form on your website, follow these steps:
