@@ -11,3 +11,10 @@ This is a simple contact form with email notification and captcha functionality,
 # Installation
 
 To use the contact form on your website, follow these steps:
+
+Download the repository or clone it to your local machine.
+Upload the files to your website's directory.
+Open the contact-form.php file in a text editor.
+Update the email address in the $to variable to your own email address.
+Save the file and upload it to your website's directory.
+You're all set! Visitors to your website can now use the contact form to send you messages.
