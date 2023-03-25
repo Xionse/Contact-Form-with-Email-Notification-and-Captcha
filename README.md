@@ -40,4 +40,8 @@ This contact form was inspired by several open-source projects and tutorials, in
 * PHPMailer
 * W3Schools
 
+## Author
+
+This contact form was created by xionse. You can contact me at (email)[alchemistt@gmail.com].
+
 
