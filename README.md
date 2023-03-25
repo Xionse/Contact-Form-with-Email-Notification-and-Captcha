@@ -42,6 +42,6 @@ This contact form was inspired by several open-source projects and tutorials, in
 
 ## Author
 
-This contact form was created by xionse. You can contact me at [email](alchemistt@gmail.com).
+This contact form was created by xionse. You can contact me at alchemistt@gmail.com.
 
 
