@@ -30,7 +30,7 @@ You can customize the contact form to suit your needs by modifying the HTML, CSS
 
 ## Contributing
 
-If you find any bugs or issues with the contact form, please open an issue on the GitHub repository. Pull requests are also welcome for any improvements or additional features you would like to add.
+If you find any bugs or issues with the contact form, please open an *issue* on the GitHub repository. Pull requests are also welcome for any improvements or additional features you would like to add.
 
 ## License
 This contact form is licensed under the MIT License. You are free to use, modify, and distribute it as you like. See the LICENSE file for more details.
